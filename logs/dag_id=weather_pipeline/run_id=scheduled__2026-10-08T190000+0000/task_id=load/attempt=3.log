@@ -1,0 +1,13 @@
+{"timestamp":"2026-10-08T19:23:18.825547Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-10-08T19:23:18.826963Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:23:18.853671Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:23:18.879636Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:18.879953Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:18.880144Z","level":"info","event":"Current task name:load","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:18.880323Z","level":"info","event":"Dag name:weather_pipeline","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:19.119404Z","level":"info","event":"Dados carregados com sucesso!!!","logger":"load_data","filename":"load_data.py","lineno":42}
+{"timestamp":"2026-10-08T19:23:19.128368Z","level":"info","event":"Total de registros na tabela: 2\n","logger":"load_data","filename":"load_data.py","lineno":46}
+{"timestamp":"2026-10-08T19:23:19.128827Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-10-08T19:23:19.144680Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:19.144944Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:23:19.145184Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): load>","logger":"task.stdout"}

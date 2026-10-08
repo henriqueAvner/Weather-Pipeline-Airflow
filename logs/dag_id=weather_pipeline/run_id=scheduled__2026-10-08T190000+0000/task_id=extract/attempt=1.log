@@ -1,0 +1,12 @@
+{"timestamp":"2026-10-08T19:11:51.860098Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-10-08T19:11:51.861700Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:11:51.922952Z","level":"info","event":"Conectando em localhost:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:11:52.001562Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.001992Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.002716Z","level":"info","event":"Current task name:extract","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.003542Z","level":"info","event":"Dag name:weather_pipeline","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.600807Z","level":"info","event":"Arquivo salvo em data/weather_data.json","logger":"root","filename":"extract_data.py","lineno":36}
+{"timestamp":"2026-10-08T19:11:52.607806Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-10-08T19:11:52.658368Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.658674Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-10-08T19:11:52.659593Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): extract>","logger":"task.stdout"}
