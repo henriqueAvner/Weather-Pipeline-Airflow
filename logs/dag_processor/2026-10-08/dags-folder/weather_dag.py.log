@@ -1096,3 +1096,17 @@
 {"timestamp":"2026-10-08T19:35:49.126546Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
 {"timestamp":"2026-10-08T19:36:19.293917Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-10-08T19:36:19.328218Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:36:49.722612Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:36:49.756987Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:37:20.184716Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:37:20.220624Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:37:50.626830Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:37:50.665198Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:38:20.856639Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:38:20.900737Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:38:51.099086Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:38:51.132106Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:39:21.495381Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:39:21.528436Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
+{"timestamp":"2026-10-08T19:39:52.187097Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/weather_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-10-08T19:39:52.219171Z","level":"info","event":"Conectando em host.docker.internal:5432/weather_data","logger":"load_data","filename":"load_data.py","lineno":24}
